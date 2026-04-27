@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![header](https://github.com/Angelosecu/Angelosecu/blob/main/icons/header.png)
+![header](https://github.com/Angelosecu/Angelosecu/blob/main/header.png)
 
 Soy **Angelo Barzola** 💻 — Full Stack Developer & Systems Architect especializado en 🏥 **Healthcare IT** • ☁️ **Cloud Infrastructure** • 🐳 **DevOps & Containers** y también **construyo soluciones para el sector público**. 🚀
 
