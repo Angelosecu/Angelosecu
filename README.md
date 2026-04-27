@@ -1,4 +1,4 @@
-# Hello there 👋 <!-- v2 -->23
+# Hello there 👋
 
 ![header](https://github.com/Angelosecu/Angelosecu/blob/main/header.png)
 
